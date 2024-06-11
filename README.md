@@ -1,5 +1,12 @@
-## Hi there 👋
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+## Hi hi, I'm Tahiyat! 👋
+
+
+<!-- Icons -->
+## Technologies & Tools 🔧
+
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<Python>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=<Python>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=<Python>&logoColor=white&color=2bbc8a)
 <!--
 **ThytMhmd/ThytMhmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
