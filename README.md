@@ -1,4 +1,4 @@
-[![Header](https://drive.google.com/file/d/16q83H425X7wwOKVosscah-64XVKLAVlP/view?usp=sharing)
+![Header Image](https://github.com/ThytMhmd/ThytMhmd/blob/main/github%20banner%20tm.png)
 
 ## Hi hi, I'm Tahiyat! 👋
 
