@@ -1,4 +1,4 @@
-![Header Image](https://github.com/ThytMhmd/ThytMhmd/blob/main/github%20banner%20tm.png)
+![Header Image](https://github.com/ThytMhmd/ThytMhmd/blob/main/github%20banner.png)
 
 ## Hi hi, I'm Tahiyat! 👋
 
